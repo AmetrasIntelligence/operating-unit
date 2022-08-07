@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.operating-unit] 13.0/analytic_operating_unit/i18n/analytic_operating_unit.pot\n"
 "X-Crowdin-File-ID: 2466\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 02:27\n"
+"PO-Revision-Date: 2022-08-07 00:21\n"
 
 #. module: analytic_operating_unit
 #: model:ir.model,name:analytic_operating_unit.model_account_analytic_account
 msgid "Analytic Account"
-msgstr ""
+msgstr "Kostenstelle"
 
 #. module: analytic_operating_unit
 #: model:ir.model.fields,field_description:analytic_operating_unit.field_account_analytic_account__operating_unit_ids
