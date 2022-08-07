@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.operating-unit] 13.0/account_operating_unit/i18n/account_operating_unit.pot\n"
 "X-Crowdin-File-ID: 2464\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 02:27\n"
+"PO-Revision-Date: 2022-08-07 00:21\n"
 
 #. module: account_operating_unit
 #: model:ir.model.fields,help:account_operating_unit.field_res_company__ou_is_self_balanced
@@ -70,7 +70,7 @@ msgstr ""
 #. module: account_operating_unit
 #: model:ir.model,name:account_operating_unit.model_account_invoice_report
 msgid "Invoices Statistics"
-msgstr ""
+msgstr "Rechnungsstatistik"
 
 #. module: account_operating_unit
 #: model:ir.model,name:account_operating_unit.model_account_journal
