@@ -14,12 +14,12 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.operating-unit] 13.0/account_operating_unit/i18n/account_operating_unit.pot\n"
 "X-Crowdin-File-ID: 2464\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-08 10:26\n"
+"PO-Revision-Date: 2022-08-08 21:49\n"
 
 #. module: account_operating_unit
 #: model:ir.model.fields,help:account_operating_unit.field_res_company__ou_is_self_balanced
 msgid "Activate if your company is required to generate a balanced balance sheet for each operating unit."
-msgstr ""
+msgstr "Aktivieren, wenn Ihr Unternehmen eine Bilanz für jede Filiale erstellen muss."
 
 #. module: account_operating_unit
 #: model:ir.model,name:account_operating_unit.model_res_company
@@ -30,7 +30,7 @@ msgstr "Unternehmen"
 #: code:addons/account_operating_unit/models/account_journal.py:0
 #, python-format
 msgid "Configuration error. If defined as self-balanced at company level, the operating unit is mandatory in bank journal."
-msgstr ""
+msgstr "Konfigurationsfehler. Wenn sie auf Unternehmensebene selbst-Bilanzierend definiert werden, ist die Filiale im Journal obligatorisch."
 
 #. module: account_operating_unit
 #: code:addons/account_operating_unit/models/res_company.py:0
@@ -75,7 +75,7 @@ msgstr "Rechnungsstatistik"
 #. module: account_operating_unit
 #: model:ir.model,name:account_operating_unit.model_account_journal
 msgid "Journal"
-msgstr ""
+msgstr "Journal"
 
 #. module: account_operating_unit
 #: model:ir.model,name:account_operating_unit.model_account_move
@@ -105,7 +105,7 @@ msgstr "Filiale"
 #: model:ir.model.fields,help:account_operating_unit.field_account_bank_statement_import_journal_creation__operating_unit_id
 #: model:ir.model.fields,help:account_operating_unit.field_account_journal__operating_unit_id
 msgid "Operating Unit that will be used in payments, when this journal is used."
-msgstr ""
+msgstr "Filiale die bei Zahlungen verwendet wird, wenn dieses Journal verwendet wird."
 
 #. module: account_operating_unit
 #: model_terms:ir.ui.view,arch_db:account_operating_unit.view_company_form
