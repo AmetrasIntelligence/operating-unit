@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.operating-unit] 13.0/account_operating_unit/i18n/account_operating_unit.pot\n"
 "X-Crowdin-File-ID: 2464\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:21\n"
+"PO-Revision-Date: 2022-08-08 10:26\n"
 
 #. module: account_operating_unit
 #: model:ir.model.fields,help:account_operating_unit.field_res_company__ou_is_self_balanced
@@ -115,7 +115,7 @@ msgstr "Betriebseinheiten"
 #. module: account_operating_unit
 #: model:ir.model.fields,field_description:account_operating_unit.field_res_company__ou_is_self_balanced
 msgid "Operating Units are self-balanced"
-msgstr ""
+msgstr "Filialen sind selbst Bilanzierend"
 
 #. module: account_operating_unit
 #: model:ir.model,name:account_operating_unit.model_account_payment
@@ -126,14 +126,14 @@ msgstr "Zahlungen"
 #: code:addons/account_operating_unit/models/account_move.py:0
 #, python-format
 msgid "The Company in the Move and in Operating Unit must be the same."
-msgstr ""
+msgstr "Das Unternehmen in der Bewegung und in der Filiale muss identisch sein."
 
 #. module: account_operating_unit
 #: code:addons/account_operating_unit/models/account_move.py:0
 #: code:addons/account_operating_unit/models/account_move.py:0
 #, python-format
 msgid "The OU in the Move and in Journal must be the same."
-msgstr ""
+msgstr "Die Filiale in der Bewegung und im Journal muss gleich sein."
 
 #. module: account_operating_unit
 #: model:ir.model.fields,help:account_operating_unit.field_account_move__operating_unit_id
