@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.operating-unit] 13.0/account_check_deposit_operating_unit/i18n/account_check_deposit_operating_unit.pot\n"
 "X-Crowdin-File-ID: 2462\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 02:27\n"
+"PO-Revision-Date: 2022-08-08 21:49\n"
 
 #. module: account_check_deposit_operating_unit
 #: model:ir.model,name:account_check_deposit_operating_unit.model_account_check_deposit
@@ -30,5 +30,5 @@ msgstr "Filiale"
 #. module: account_check_deposit_operating_unit
 #: model:ir.model.fields,help:account_check_deposit_operating_unit.field_account_check_deposit__operating_unit_id
 msgid "Operating Unit that will be used in payments, when this journal is used."
-msgstr ""
+msgstr "Filiale die bei Zahlungen verwendet wird, wenn dieses Journal verwendet wird."
 
