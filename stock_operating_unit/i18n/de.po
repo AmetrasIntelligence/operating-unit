@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.operating-unit] 13.0/stock_operating_unit/i18n/stock_operating_unit.pot\n"
 "X-Crowdin-File-ID: 2496\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 02:27\n"
+"PO-Revision-Date: 2022-08-11 16:23\n"
 
 #. module: stock_operating_unit
 #: code:addons/stock_operating_unit/model/stock_warehouse.py:0
@@ -79,7 +79,7 @@ msgstr ""
 #. module: stock_operating_unit
 #: model:ir.model,name:stock_operating_unit.model_stock_location
 msgid "Inventory Locations"
-msgstr ""
+msgstr "Lagerstandorte"
 
 #. module: stock_operating_unit
 #: model:ir.model,name:stock_operating_unit.model_stock_warehouse_orderpoint
