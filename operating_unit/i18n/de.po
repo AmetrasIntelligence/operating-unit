@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.operating-unit] 13.0/operating_unit/i18n/operating_unit.pot\n"
 "X-Crowdin-File-ID: 2480\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-07 00:21\n"
+"PO-Revision-Date: 2022-09-09 07:21\n"
 
 #. module: operating_unit
 #: model:ir.model.fields,field_description:operating_unit.field_operating_unit__active
@@ -126,7 +126,7 @@ msgstr "Kontakt"
 #. module: operating_unit
 #: model_terms:ir.ui.view,arch_db:operating_unit.view_operating_unit_search
 msgid "Search Operating Unit"
-msgstr ""
+msgstr "Suche Filiale"
 
 #. module: operating_unit
 #: model:ir.model.constraint,message:operating_unit.constraint_operating_unit_code_company_uniq
