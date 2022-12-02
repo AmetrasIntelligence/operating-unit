@@ -61,6 +61,7 @@ class ResUsers(models.Model):
                 else:
                     dom = []
                 user.operating_unit_ids = self.env["operating.unit"].sudo().search(dom)
+                user._inverse_operating_unit_ids()
             else:
                 user.operating_unit_ids = user.assigned_operating_unit_ids
 
